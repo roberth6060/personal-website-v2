@@ -1,0 +1,24 @@
+body {
+  background-color: #F0E9D2;
+  color: #40514E;
+  margin:0;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+}
+h2 {
+  color: #66BFBF;
+  font-size: 2.5 rem;/* 1 em equals to 16px*/
+  font-family: 'Paytone One', sans-serif;
+  font-weight: normal;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  max-width: 11%;
+  margin-left: 0;
+ }
+.contact-container {
+  padding-top: 40;
+}
